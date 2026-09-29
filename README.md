@@ -7,11 +7,25 @@ This repository only hosts the downloads. **[Get the latest version →](../../r
 
 ## Install
 
+### Easiest: one line in Terminal
+
+Open **Terminal** (press ⌘Space, type *Terminal*, press Return), paste this and press Return:
+
+```bash
+curl -fsSL https://raw.githubusercontent.com/nehavivekpatil/neko-notes-releases/main/install.sh | bash
+```
+
+It downloads the latest version, puts Neko Notes in your Applications folder and opens it. There's no security warning to click through, and running it again later updates the app and keeps your notes. You can [read the script](install.sh) first; it's short.
+
+### Or download the DMG
+
 1. Download **NekoNotes-1.1.dmg** from the [latest release](../../releases/latest) (under *Assets*).
 2. Open the DMG and drag **Neko Notes** into **Applications**.
 3. Open Neko Notes once. macOS says it can't verify the app. Click **Done**.
 4. Go to **System Settings → Privacy & Security**, scroll down to **Security**, and click **Open Anyway** next to Neko Notes.
    *On macOS 14 Sonoma you can instead right-click the app → Open → Open.*
+
+![Where to find Open Anyway: System Settings, Privacy & Security, Security section](docs/open-anyway.png)
 
 You only need steps 3–4 once. The app isn't notarized by Apple yet, which is why macOS asks.
 
@@ -19,7 +33,7 @@ You only need steps 3–4 once. The app isn't notarized by Apple yet, which is w
 
 ## Updating
 
-Download the new DMG and drag Neko Notes into Applications again, choosing **Replace**. Your notes are kept.
+Run the one-line install again, or download the new DMG and drag Neko Notes into Applications, choosing **Replace**. Your notes are kept.
 
 ## Tips
 
