@@ -43,4 +43,4 @@ Run the one-line install again, or download the new DMG and drag Neko Notes into
 
 Your notes stay on your Mac. No account, no tracking.
 
-Made with love by Whole New Level.
+Made with love by Neha Patil.
