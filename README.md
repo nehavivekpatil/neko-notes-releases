@@ -19,7 +19,7 @@ It downloads the latest version, puts Neko Notes in your Applications folder and
 
 ### Or download the DMG
 
-1. Download **NekoNotes-1.1.dmg** from the [latest release](../../releases/latest) (under *Assets*).
+1. Download the **NekoNotes DMG** from the [latest release](../../releases/latest) (under *Assets*).
 2. Open the DMG and drag **Neko Notes** into **Applications**.
 3. Open Neko Notes once. macOS says it can't verify the app. Click **Done**.
 4. Go to **System Settings → Privacy & Security**, scroll down to **Security**, and click **Open Anyway** next to Neko Notes.
