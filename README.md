@@ -37,7 +37,7 @@ Run the one-line install again, or download the new DMG and drag Neko Notes into
 
 ## Tips
 
-- Click Mishu to hear her meow. Wiggle your cursor over her for a belly rub.
+- Click Mishu to hear him meow. Wiggle your cursor over him for a belly rub.
 - `⌃⌥N` new note from anywhere · `⌃⌥H` hide or show all notes
 - Type `[] ` for a checkbox or `- ` for a bullet.
 
