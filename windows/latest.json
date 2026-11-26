@@ -1,0 +1,11 @@
+{
+  "version": "2.0.0",
+  "notes": "Neko Notes is now on Windows! \ud83d\udc31 Cute sticky notes for your desktop, with a cat who lives on your taskbar.\n\n- Sticky notes that stay on your desktop, or pin them above every window\n- Cute backgrounds, transparency, fonts, bold, italic, colours, bullets and round checklists\n- Pomodoro timer on any note\n- Collapse a note into a little cat head; double-click to open it again\n- Pick your cat: Mishu (black, yellow eyes) or Chulli (white, blue eyes, pink paws)\n- Click to meow, drag to carry, wiggle your mouse for a belly rub\n- Meows before your Google Calendar or Outlook events\n- Ctrl+Alt+N new note \u00b7 Ctrl+Alt+H hide/show all \u00b7 Ctrl+Alt+M show/hide your cat\n- Updates itself from now on",
+  "pub_date": "2026-11-26T16:23:04Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRXFhOERLb21VclhYQkl3YnhCamNjTW5IWmdaakVhM25kQ0dBYkM0dHF6M2NYTG54YjY5RkVuNVAwWUJZVVFKUVBpMGdjSlFwWDVTLzJjNlE4Y2VVeFFEK1BXalBIR0FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzEwMTc4CWZpbGU6TmVrb05vdGVzLVNldHVwLTIuMC4wLmV4ZQpyRGhCcWVxQ3B1bGVGY1JpOVhCWVJiaWxHTFVENHVFTzhTL21SS0lucDIwTGt6bCtXazBncC9lRHJ3WDlsQmRMUTRzZE9naEFOQ3BROVR3Rld3TFBEdz09Cg==",
+      "url": "https://github.com/nehavivekpatil/neko-notes-releases/releases/download/win-v2.0.0/NekoNotes-Setup-2.0.0.exe"
+    }
+  }
+}
